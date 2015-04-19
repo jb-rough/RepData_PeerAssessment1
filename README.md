@@ -1,3 +1,52 @@
+
+
+
+
+The files PA1_template.R, PA1_template.Rmd, and PA1_template.html contain the R script and markdown for the first programming assignment.  The figure for the html file are in the figures directory.  I have not been able to associate the figures with the html file, however the code will produce the figures.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
