@@ -9,7 +9,7 @@ Load the data (i.e. read.csv())
 Process/transform the data (if necessary) into a format suitable for your analysis
 
 ```{r}
-Data <- read.csv(file="/users/jb_rough/rwork/activity.csv", header=TRUE)
+Data <- read.csv(file="/home/broughma/rwork/activity.csv", header=TRUE)
 Data$date <- as.Date(Data$date)
 Data$fac <- cut(Data$date, breaks="day")
 ```
